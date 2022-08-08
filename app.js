@@ -11,7 +11,7 @@ export default () => {
   return (
       <NavigationContainer>
         <StatusBar
-          style={'dark'}
+          style={'light'}
           translucent={false}
           backgroundColor={'transt'}
         />
